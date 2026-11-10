@@ -11,13 +11,14 @@
             "id": "addef7b0f4e25fee",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Databases/Weapons.base",
-                "viewName": "представление"
+                "file": "Items/Chemicals/Без названия 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Weapons"
+              "icon": "lucide-file",
+              "title": "Без названия 1"
             }
           }
         ]
@@ -188,8 +189,19 @@
       "obsidian-importer:Импортировать заметки": false
     }
   },
-  "active": "addef7b0f4e25fee",
+  "active": "42ab698ba1142c4c",
   "lastOpenFiles": [
+    "Old",
+    "Без названия 2.md",
+    "Items/Chemicals/Без названия 1.md",
+    "Без названия 6.md",
+    "Items/Implants/Без названия 5.md",
+    "Items/Psionics/Без названия 4.md",
+    "Items/Scripts/Без названия 3.md",
+    "Items/Properties/Без названия 1.md",
+    "Items/Gears/Без названия.md",
+    "Items/Actions/Без названия.md",
+    "Databases/Weapons.base",
     "Databases/Scripts.base",
     "Databases/Properties.base",
     "Databases/Implants.base",
@@ -197,10 +209,8 @@
     "Databases/Chemicals.base",
     "Databases/Actors.base",
     "Databases/Actions.base",
-    "Databases/Weapons.base",
     "Databases",
     "_DB",
-    "Weapons",
     "README.md",
     "Items/asd 2.md",
     "Items/asd 1.md",
