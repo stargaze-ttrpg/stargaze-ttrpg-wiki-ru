@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Items/Chemicals")
+views:
+  - type: table
+    name: Table

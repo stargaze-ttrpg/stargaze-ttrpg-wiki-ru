@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c447f984a3448b1c",
+        "id": "04215b8acfc52037",
         "type": "tabs",
         "children": [
           {
-            "id": "16b8ce4980a9e957",
+            "id": "addef7b0f4e25fee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "type": "bases",
+              "state": {
+                "file": "Databases/Weapons.base",
+                "viewName": "представление"
+              },
+              "icon": "lucide-table",
+              "title": "Weapons"
             }
           }
         ]
@@ -181,15 +184,32 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "bases:Создать новую базу": false
+      "bases:Создать новую базу": false,
+      "obsidian-importer:Импортировать заметки": false
     }
   },
-  "active": "42ab698ba1142c4c",
+  "active": "addef7b0f4e25fee",
   "lastOpenFiles": [
-    "Actors",
-    "Items",
-    "Добро пожаловать.md",
+    "Databases/Scripts.base",
+    "Databases/Properties.base",
+    "Databases/Implants.base",
+    "Databases/Gears.base",
+    "Databases/Chemicals.base",
+    "Databases/Actors.base",
+    "Databases/Actions.base",
+    "Databases/Weapons.base",
+    "Databases",
+    "_DB",
+    "Weapons",
     "README.md",
-    "LICENSE"
+    "Items/asd 2.md",
+    "Items/asd 1.md",
+    "Actors/asd.md",
+    "Actors/asd 2 4.md",
+    "Actors/asd 2 3.md",
+    "Actors/asd 2 2.md",
+    "Actors/asd 2 1.md",
+    "Actors/asd 2.md",
+    "Добро пожаловать.md"
   ]
 }

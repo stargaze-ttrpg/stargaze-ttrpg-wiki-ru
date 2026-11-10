@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Items/Scripts")
+views:
+  - type: table
+    name: Table

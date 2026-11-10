@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Items/Gears")
+views:
+  - type: table
+    name: Table

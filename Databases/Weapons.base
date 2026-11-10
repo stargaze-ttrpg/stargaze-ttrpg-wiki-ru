@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.inFolder("Items/Weapons")
+views:
+  - type: table
+    name: представление
