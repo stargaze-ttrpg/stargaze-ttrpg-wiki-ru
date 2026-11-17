@@ -1,0 +1,8 @@
+filters:
+  and:
+    - file.inFolder("Items/Actions")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name

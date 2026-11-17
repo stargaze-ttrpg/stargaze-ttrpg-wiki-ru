@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Actors")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - МНН
