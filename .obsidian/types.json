@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "subtype": "text"
+    "subtype": "text",
+    "hide": "checkbox",
+    "multiple": "checkbox",
+    "class_level": "number"
   }
 }

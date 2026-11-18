@@ -6,3 +6,9 @@ views:
     name: Table
     order:
       - file.name
+      - type
+      - subtype
+      - class_owner
+      - file.folder
+    columnSize:
+      file.name: 204

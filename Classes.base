@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.inFolder("Classes")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - type
+      - main-attribute
+    sort:
+      - property: main-attribute
+        direction: DESC
+      - property: МНН
+        direction: ASC
+    columnSize:
+      file.name: 187
+      note.type: 168
+      note.main-attribute: 191

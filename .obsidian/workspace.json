@@ -4,24 +4,85 @@
     "type": "split",
     "children": [
       {
-        "id": "dde9a8f90df885b2",
+        "id": "1eda9af3738708d7",
         "type": "tabs",
         "children": [
           {
-            "id": "1bd4e96d0d93f987",
+            "id": "5b2d829827cedd6c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Properties.base",
+                "viewName": "Table"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Properties"
+            }
+          },
+          {
+            "id": "b818a68efa2ff81c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Actions.base",
+                "viewName": "Table"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Actions"
+            }
+          },
+          {
+            "id": "73b20166540b6cbf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Стрелок.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Стрелок"
+            }
+          },
+          {
+            "id": "338eaa4fdb6360a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Берсерк.md",
+                "file": "Articles/Дальний бой.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Берсерк"
+              "title": "Дальний бой"
+            }
+          },
+          {
+            "id": "da46520429ef7930",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Items/Properties/_Inner/Classes/Стрелок/Особо опасен.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Особо опасен"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,44 +250,44 @@
       "obsidian-importer:Импортировать заметки": false
     }
   },
-  "active": "1bd4e96d0d93f987",
+  "active": "da46520429ef7930",
   "lastOpenFiles": [
-    "Classes/Харизматик.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Список яростных способностей.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_10_b.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_10_a.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_8_b.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_8_a.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_7_b.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_7_a.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_6_b.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_6_a.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_4_b.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_4_a.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_2_b.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_2_a.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_1_b.md",
-    "Items/Properties/_Inner/Classes/Берсерк/Берсерк_1_a.md",
-    "Items/Properties/_Inner/Classes/Доктор/Доктор_10_b.md",
-    "Items/Properties/_Inner/Classes/Доктор/Доктор_10_a.md",
-    "Items/Properties/_Inner/Classes/Доктор/Доктор_7_b.md",
-    "Items/Properties/_Inner/Classes/Доктор/Доктор_7_a.md",
-    "Items/Properties/_Inner/Classes/Доктор/Доктор_5_b.md",
-    "Items/Properties/_Inner/Classes/Доктор/Доктор_5_a.md",
-    "Items/Properties/_Inner/Classes/Доктор/Доктор_2_b.md",
-    "Items/Properties/_Inner/Classes/Доктор/Доктор_2_a.md",
-    "Items/Properties/_Inner/Classes/Доктор/Доктор_1_b.md",
-    "Items/Properties/_Inner/Classes/Доктор/Доктор_1_a.md",
-    "Items/Properties/_Inner/Classes/Харизматик",
-    "Items/Properties/_Inner/Classes/Хакер",
-    "Items/Properties/_Inner/Classes/Стрелок",
-    "Items/Properties/_Inner/Classes/Солдат",
-    "Items/Properties/_Inner/Classes/Псионик",
-    "Items/Properties/_Inner/Classes/Пилот",
-    "Items/Properties/_Inner/Classes/Доктор",
-    "Items/Properties/_Inner/Classes/Берсерк",
-    "Items/Actions/_Inner/Classes",
-    "Items/Actions/_Inner",
+    "Classes/Стрелок.md",
+    "Articles/Дальний бой.md",
+    "Classes/Псионик.md",
+    "Classes/Пилот.md",
+    "Items/Properties/_Inner/Classes/Пилот/Пилот_1_a.md",
+    "Actions.base",
+    "Properties.base",
+    "Actors/asd.md",
+    "Items/Actions/_Inner/Classes/Берсерк/Яростная выносливость.md",
+    "Items/Actions/Weapon/Автоматическая перезарядка.md",
+    "Items/Actions/Подготовка.md",
+    "Items/Actions/Передышка.md",
+    "Items/Actions/Weapon/Автоматическая стрельба.md",
+    "Выстрелов.md",
+    "длительный отдых.md",
+    "дополнительный класс.md",
+    "основной класс.md",
+    "новый уровень.md",
+    "Items/Properties/_Inner/Classes/Стрелок/Инициативный дуэлянт.md",
+    "Items/Properties/_Inner/Classes/Стрелок/Многогранное отслеживание.md",
+    "Items/Properties/_Inner/Classes/Стрелок/Ганката.md",
+    "Items/Properties/_Inner/Classes/Стрелок/Особо опасен.md",
+    "Items/Actions/Weapon/Задержка дыхания.md",
+    "Items/Actions/Weapon/Стрельба по-македонски.md",
+    "Items/Actions/Weapon/Выстрел.md",
+    "Items/Actions/Weapon/Слежение за территорией.md",
+    "Actors.base",
+    "Items/Actions/Weapon/Без названия.md",
+    "Items/Actions/Weapon/Единичная перезарядка.md",
+    "Items/Actions/U",
+    "Items/Actions/Weapon",
+    "Items/Actions/_Inner/Classes/Харизматик",
+    "Items/Actions/_Inner/Classes/Хакер",
+    "Items/Actions/_Inner/Classes/Стрелок",
+    "Items/Actions/_Inner/Classes/Солдат",
+    "Items/Actions/_Inner/Classes/Псионик",
     "Без названия.canvas"
   ]
 }

@@ -4,3 +4,15 @@ filters:
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - type
+      - subtype
+      - class_owner
+      - class_level
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: type
+        direction: DESC
